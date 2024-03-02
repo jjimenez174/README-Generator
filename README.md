@@ -1,10 +1,13 @@
 # README-Generator
 
+## Badge
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Descriptioin
 
 The README generator will allow the user to answer a series of questions and create a README based on the user's response.
 
-[Link to Demo]()
+[Link to Demo](https://drive.google.com/file/d/1JViYB5msSZJkZMbAIs8R72ziOjz7-Ada/view?usp=sharing)
 
 ## Table of Content
 [Installation](#installation)  
@@ -17,12 +20,12 @@ The README generator will allow the user to answer a series of questions and cre
 * Clone the repositoy
 * Open the file in VS code or any source code editor
 * Open terminal
-* run <u><b>npm init</u></b> in terminal
+* run <b>npm init</b> in terminal
 
 All set to run the app. 
 
 ## Usage
- * run <u><b>node index</u></b> in the terminal
+ * run <b>node index</b> in the terminal
  * answer the prompts
  * when its all done, a message will say <b>Success</b>
  * a file will be created
@@ -36,7 +39,6 @@ At the moment I won't be accepting contributions.
 Not applicable 
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 For more information, visit [License Details](https://opensource.org/license/MIT)
 
