@@ -37,7 +37,8 @@ function generateMarkdown(data) {
   const licenseSection = renderLicenseSection(data.license);
 
   return `# ${data.title}
-
+##
+  ${licenseBadge}
 ## Description
 ${data.description}
 
@@ -62,8 +63,6 @@ ${data.contribution}
 ${data.test}
 
 ## License
-${licenseBadge}
-
 ${licenseSection}
 
 For more information, visit [License Details](${licenseLink}).
