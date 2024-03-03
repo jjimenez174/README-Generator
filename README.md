@@ -3,7 +3,7 @@
 ## Badge
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Descriptioin
+## Description
 
 The README generator will allow the user to answer a series of questions and create a README based on the user's response.
 
